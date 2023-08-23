@@ -1,2 +1,2 @@
 # Desarrollo_sitios_web
-Códigos de ejemplo de las clases de desarrollo de Sitios Web
+Códigos de la materia de Desarrollo de Sitios Web, Roberto Portillo
